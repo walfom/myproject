@@ -6,6 +6,9 @@
         <element id="directory" name="classes">
           <element id="module-output" name="myproject" />
         </element>
+        <element id="directory" name="lib">
+          <element id="library" level="project" name="KotlinJavaRuntime" />
+        </element>
       </element>
       <element id="javaee-facet-resources" facet="myproject/web/Web" />
     </root>
